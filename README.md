@@ -10,5 +10,5 @@ frontend-nanodegree-mobile-portfolio
 ##main.js
 - Creat local variables
 	-	Creat local variables on line `448 ~ 450`, to do not touch their value at every iteration.
-	- Creat local variables on line `526~529`, calculate the number of pizzas needed to fill the screen, based on browser window resolution.
+	- Creat local variables on line `529~531`, calculate the number of pizzas needed to fill the screen, based on browser window resolution.
 	- And some more...
